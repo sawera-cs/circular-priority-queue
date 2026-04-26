@@ -17,5 +17,15 @@ This project implements a Circular Priority Queue in C++ to simulate a printer s
 ## 📂 File
 - main.cpp
 
-## 🚀 How it works
-Documents are enqueued with priority and index. The highest priority document is printed first, and the process continues until the target document is printed.
+  
+## 📸 Output Screenshot
+![Output](output.png)
+
+## 🚀 How to Run
+1. Open project in Visual Studio
+2. Build Solution
+3. Run (Ctrl + F5)
+
+## 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sawera-cs
+- GitHub: https://github.com/sawera-cs
