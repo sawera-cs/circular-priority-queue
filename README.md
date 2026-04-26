@@ -19,7 +19,7 @@ This project implements a Circular Priority Queue in C++ to simulate a printer s
 
   
 ## 📸 Output Screenshot
-![Output](output.png)
+![Output](Output.png)
 
 ## 🚀 How to Run
 1. Open project in Visual Studio
